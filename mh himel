@@ -4,7 +4,7 @@
   "media_url": "https://raw.githubusercontent.com/YOUR IMAGE LINK", 
   "update_url": "https://t.me/YOUR UPDATE LINK",
   "telegram": "https://t.me/YOUR USER NAME",
-  "force_update": true,
+  "force_update": false,
   "bg_color": "#111111",
   "accent_color": "#00FFFF",
   "button_color": "#FF0044"
